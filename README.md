@@ -22,7 +22,8 @@ two things:
 * A branch (Easy Option) 
 * A Github Actions Workflow (Hard Option)
 
-For this tutorial, we'll go with the Easy Option. This means you'll need to...
+For this tutorial, we'll go with the Easy Option (a branch). This means you'll 
+need to...
 1. Set **Source** to **Deploy from a branch**
 2. Set **Branch** to the branch you want to deploy from (e.g., **`main`**)
 3. Select which folder in your chosen branch will hold your website's files 
